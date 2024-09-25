@@ -1,6 +1,6 @@
 # EXEMPLO DE COMO FAZER O EXERCÍCIO:
 
-**1º PASSO:**
+**1º PASSO:**  
     ➡ Idetifique seu número de chamada no códico **case:**  
     ➡ Exemplo:  
         Lista de Chamada 2ºB Técnico  
