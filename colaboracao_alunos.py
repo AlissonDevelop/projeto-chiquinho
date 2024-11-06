@@ -55,7 +55,7 @@ while True:
                 case 28:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 29:
-                     print("\n\n\n\nNome:Luca Toniolo -RA:000010#######3SP")
+                    print("\n\n\n\nNome:Luca Toniolo -RA:000010#######3SP")
                 case 30:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 31:
@@ -80,6 +80,8 @@ while True:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 45:
                     print("\n\n\n\nNão Participou da Atividade")
+                case 50:
+                    print("\n\n\n\nNOME: Messi cabral, RA: 000089347347327482")
 
                 case _:
                     print("\n\nNúmero de chamada não encontrado.\n\n")
