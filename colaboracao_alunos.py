@@ -17,7 +17,7 @@ while True:
                 case 5:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 6:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome: Eryck Nascimento dos Santos, RA: 001104052234")
                 case 7:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 8:
