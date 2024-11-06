@@ -55,7 +55,7 @@ while True:
                 case 28:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 29:
-                     print("\n\n\n\nNome:Luca Toniolo -RA:000010#######3SP")
+                     print("\n\n\n\nNome:Gustavo A. -RA:000010287383sp")
                 case 30:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 31:
