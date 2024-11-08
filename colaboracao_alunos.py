@@ -41,7 +41,9 @@ while True:
                 case 18:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 19:
-                    print("\n\n\n\nNome: jefferson ~RA:0000108498524XSP")
+                    print("\n\n\n\nNão Participou da Atividade")
+                case 20:
+                 print("\n\n\n\nNome: Jhames Ozair -RA:000011#######8SP")
                 case 21:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 23:
