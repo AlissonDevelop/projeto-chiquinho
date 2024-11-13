@@ -177,6 +177,8 @@ while True:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 45:
                     print("\n\n\n\nNão Participou da Atividade")
+                case 39:
+                    print("\n\n\n\nNOME: Rafaela Brok, RA0000112518859-5")
 
                 case _:
                     print("\n\nNúmero de chamada não encontrado.\n\n")
