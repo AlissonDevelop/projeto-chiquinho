@@ -59,12 +59,13 @@ while True:
                 case 30:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 31:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nNome:Lucas Celestino Santos   RA: 00001103831641SP")
                 case 32:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 33:
                     print("\n\n\n\nNOME:Luiz Felipe da Silva Nolasco, RA: 00001103572969")
                 case 34:
+                    print("\n\n\n\nNão Participou da Atividade")
                     print("\n\n\n\nNOME: Maria Eduarda de Souza, RA:0001166754455")
                 case 35:
                     print("\n\n\n\nNão Participou da Atividade")
