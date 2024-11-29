@@ -47,7 +47,7 @@ while True:
                 case 23:
                     print("\n\n\n\nNOME: Kelly Cristine Souza da Cruz, RA: 000112249761")
                 case 25:
-                    print("\n\n\n\nNão Participou da Atividade")
+                    print("\n\n\n\nPARTICIPEI SIM S2 :) 4002-8922")
                 case 26:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 27:
@@ -81,6 +81,8 @@ while True:
                     print("\n\n\n\nNão Participou da Atividade")
                 case 45:
                     print("\n\n\n\nNão Participou da Atividade")
+                case 47:
+                    print("\n\n\n\nVinicius Queiroz: 000222222222-2")
 
                 case _:
                     print("\n\nNúmero de chamada não encontrado.\n\n")
